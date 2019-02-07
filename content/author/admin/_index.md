@@ -75,4 +75,4 @@ interests = [
 
 +++
 
-Yongli Zhu received his B.S. degree from Huazhong University of Science & Technology in 2009 and M.S. degree from State Grid Electric Power Research Institute in 2012. He is now pursuing the Ph.D. degree at the University of Tennessee, Knoxville. His research interests include energy storage and artificial intelligence for power system stability and control. 
+Yongli Zhu received his Ph.D. degree at the University of Tennessee, Knoxville,  B.S. degree from Huazhong University of Science & Technology in 2009 and M.S. degree from State Grid Electric Power Research Institute in 2012. His research interests include energy storage and artificial intelligence for power system stability and control. 
