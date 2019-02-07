@@ -1,19 +1,19 @@
 +++
 # Display name
-name = "Nelson Bighetti"
+name = "Yongli Zhu"
 
 # Is this the primary user of the site?
 superuser = true
 
 # Role/position
-role = "Professor of Artificial Intelligence"
+role = "Postdoctoral Researcher (Graph Computing and AI Group)"
 
 # Organizations/Affiliations
 #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-organizations = [ { name = "Stanford University", url = "" } ]
+organizations = [ { name = "GEIRI North America", url = "" } ]
 
 # Short bio (displayed in user profile at end of posts)
-bio = "My research interests include distributed robotics, mobile computing and programmable matter."
+bio = "My research interests include include energy storage and artificial intelligence for power system stability and control."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email = "yongli.zhu@geirina.net; yzhu16@vols.utk.edu"
