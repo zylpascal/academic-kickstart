@@ -16,20 +16,20 @@ organizations = [ { name = "Stanford University", url = "" } ]
 bio = "My research interests include distributed robotics, mobile computing and programmable matter."
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email = ""
+email = "yongli.zhu@geirina.net; yzhu16@vols.utk.edu"
 
 # List (academic) interests or hobbies
 interests = [
   "Artificial Intelligence",
-  "Computational Linguistics",
-  "Information Retrieval"
+  "Automatic Control",
+  "Paralell Computing"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  Degree = "PhD"
+  institution = "The University of Tennessee"
+  year = 2018
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
@@ -75,6 +75,4 @@ interests = [
 
 +++
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Yongli Zhu received his B.S. degree from Huazhong University of Science & Technology in 2009 and M.S. degree from State Grid Electric Power Research Institute in 2012. He is now pursuing the Ph.D. degree at the University of Tennessee, Knoxville. His research interests include energy storage and artificial intelligence for power system stability and control. 
