@@ -27,19 +27,21 @@ interests = [
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
-  Degree = "PhD"
+  course = "PhD in Electirc Engineering"
   institution = "The University of Tennessee"
   year = 2018
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
+  course = "MS in Power system automation"
+  institution = "State Grid Electric Power Research Institute"
+  year = 2012
+  
+[[education.courses]]
+  course = "BS in Electirc Engineering"
+  institution = "Huazhong University of Science and Technology"
+  year = 2009
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -49,7 +51,7 @@ interests = [
 [[social]]
   icon = "envelope"
   icon_pack = "fas"
-  link = "#contact"  # For a direct email link, use "mailto:test@example.org".
+  link = "#contact"  # For a direct email link, use "yongli.zhu@geirina.net".
 
 [[social]]
   icon = "twitter"
